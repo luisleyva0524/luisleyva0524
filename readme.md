@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Luis Leyva
-- 👀 I’m interested in development web
 - 🌱 I’m currently learning vue js and react
 - 📫 How to reach me luisantonioleyva0524@gmail.com
 
