@@ -5,7 +5,10 @@
 luisleyva0524/luisleyva0524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Luis Leyva GitHub stats](https://github-readme-stats.vercel.app/api?username=luisleyva0524&show_icons=true&border_radius=10%&count_private=true&theme=dracula)
+<!--
+![Stats](https://github-readme-stats.vercel.app/api?username=luisleyva0524&show_icons=true&border_radius=10%&count_private=true&theme=dracula)
+--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisleyva0524&hide=contribs,prs&show_icons=true&theme=dracula)
 
 <!---
 ![<About github stats>](https://github-readme-stats.vercel.app/api?username=luisleyva0524&show_icons=true&theme=dracula)
