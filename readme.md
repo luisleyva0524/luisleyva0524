@@ -2,7 +2,7 @@
 <abc>
 Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> My name is Luis Leyva, I am Software Engineering :computer:<br>
   <br>
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://github.com/luisleyva0524/luisleyva0524/blob/main/developer.gif" alt="Coder GIF" width="500" height="400">
   </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
