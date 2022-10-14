@@ -19,7 +19,7 @@ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently learning vue js and react
+- :computer: I'm currently learning react js
 - :rocket: Always ready to collaborate for Dev Experiments
 - :trophy: I assisted to startup weekend 2017"
 - :zap: I like learn for myself
