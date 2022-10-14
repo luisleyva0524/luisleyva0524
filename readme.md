@@ -2,7 +2,6 @@
 <abc>
 Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> My name is Luis Leyva, I am Software Engineering :computer:<br>
   <br>
-<img align="right" src="https://github.com/luisleyva0524/luisleyva0524/blob/main/developer.gif" alt="Coder GIF" width="500" height="400">
   </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -27,5 +26,5 @@ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-luisantonioleyva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/luisantonioleyvaverdeja) [![Twitter Badge](https://img.shields.io/badge/-@Antonio95085216-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Antonio95085216)](https://twitter.com/Antonio95085216)<br>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisleyva0524&theme=dracula&show_icons=true)](https://github.com/luisleyva0524/github-readme-stats)
+[![Linkedin Badge](https://img.shields.io/badge/-luisantonioleyva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisantonioleyvaverdeja)](https://www.linkedin.com/in/luisantonioleyvaverdeja) [![Twitter Badge](https://img.shields.io/badge/-@Antonio95085216-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Antonio95085216)](https://twitter.com/Antonio95085216)<br>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisleyva0524&theme=dracula&show_icons=true)](https://github.com/luisleyva0524/github-readme-stats)
 
