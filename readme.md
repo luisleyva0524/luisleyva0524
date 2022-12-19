@@ -13,11 +13,11 @@ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently learning java
-- :rocket: Always ready to collaborate for Dev Experiments
-- :trophy: I assisted to startup weekend 2017"
-- :zap: I like learn for myself
-- 📫 How to reach me luisantonioleyva0524@gmail.com<br>
+:computer: I'm currently learning java</br>
+:rocket: Always ready to collaborate for Dev Experiments</br>
+:trophy: I assisted to startup weekend 2017"</br>
+:zap: I like learn for myself</br>
+📫 How to reach me luisantonioleyva0524@gmail.com<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
