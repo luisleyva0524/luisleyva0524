@@ -1,5 +1,5 @@
 <header>
-  <img src="./header-img.png">
+  <img src="https://github.com/luisleyva0524/header-img#header-img">
 </header>
 <h2 align="left">
 <abc>
