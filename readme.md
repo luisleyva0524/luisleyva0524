@@ -1,3 +1,6 @@
+<header>
+  <img src="./header-img.png">
+</header>
 <h2 align="left">
 <abc>
 Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> My name is Luis Leyva, I am Software Engineering :computer:<br>
