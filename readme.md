@@ -1,9 +1,7 @@
-<header>
-  <img src="https://github.com/luisleyva0524/header-img">
-</header>
+![header](https://user-images.githubusercontent.com/105246151/208466098-389c5554-36b0-4e3e-b5b4-ed6311198973.png)
 <h2 align="left">
 <abc>
-Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> My name is Luis Leyva, I am Software Engineering :computer:<br>
+Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> there
   <br>
   </abc>
 </h2> 
