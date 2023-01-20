@@ -5,7 +5,7 @@ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,git,java&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb,git,java,kotlin,linux&theme=light" />
   </a>
 </p>
 
