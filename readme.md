@@ -12,7 +12,7 @@ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 :computer: I'm currently learning kotlin</br>
-:rocket: Always ready to collaborate for Dev</br>
+:rocket: Always ready to collaborate with Developers</br>
 :trophy: I assisted to startup weekend 2017</br>
 :zap: I like learn for myself</br>
 📫 How to reach me luisantonioleyva0524@gmail.com<br>
