@@ -19,5 +19,5 @@ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-luisantonioleyva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisantonioleyvaverdeja)](https://www.linkedin.com/in/luisantonioleyvaverdeja) [![Twitter Badge](https://img.shields.io/badge/-@Antonio95085216-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Antonio95085216)](https://twitter.com/Antonio95085216)
+[![Linkedin Badge](https://img.shields.io/badge/-luisantonioleyva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisantonioleyvaverdeja)](https://www.linkedin.com/in/luisantonioleyvaverdeja) [![Twitter Badge](https://img.shields.io/badge/-@Antonio95085216-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Antoniolvdev)](https://twitter.com/Antoniolvdev)
 
