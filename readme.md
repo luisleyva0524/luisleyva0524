@@ -5,7 +5,7 @@ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,git,linux,java,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,git,linux,java,mysql&theme=light" />
   </a>
 </p>
 
@@ -16,8 +16,3 @@ Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259
 :trophy: I assisted to startup weekend 2017</br>
 :zap: I like learn for myself</br>
 📫 How to reach me luisantonioleyva0524@gmail.com<br>
-
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-luisantonioleyva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisantonioleyvaverdeja)](https://www.linkedin.com/in/luisantonioleyvaverdeja) [![Twitter Badge](https://img.shields.io/badge/-@Antoniolvdev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Antoniolvdev)](https://twitter.com/Antoniolvdev)
-
